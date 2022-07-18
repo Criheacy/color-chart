@@ -1,16 +1,5 @@
-# color_chart
+# Color Chart
 
-A new Flutter project.
+A cross platform color chart application made with flutter.
 
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+> 考研期间摸鱼写的炒冷饭小项目（以前的 [iColor](https://github.com/Criheacy/iColor) 重制版，主要是 Android 原生太难用了，学学 Flutter 新技术栈）
